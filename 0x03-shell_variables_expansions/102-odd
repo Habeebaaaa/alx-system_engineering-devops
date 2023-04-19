@@ -1,2 +1,2 @@
 #!/bin/bash
-print -d - - | cut -d, -f1
+print -d, - - | cut -d, -f1
